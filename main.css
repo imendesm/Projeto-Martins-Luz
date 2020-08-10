@@ -1,0 +1,141 @@
+.jumbotron{
+    position: absolute;
+    width: 1440px;
+    height: 450px;
+    left: 0px;
+    top: 0px;
+    background: #0B27FA;
+}
+
+.display-4{
+    position: absolute;
+    width: 107px;
+    height: 40px;
+    left: 159px;
+    top: 162px;
+
+   font-family: DM Sans;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 24px;
+   line-height: 40px;
+
+   letter-spacing: 0.15em;
+   text-transform: uppercase;
+   color: #00BA91;
+
+}
+
+.img-j{
+    padding-left: 159px;
+}
+
+.lead{
+    position: absolute;
+    width: 544px;
+    height: 205px;
+    left: 159px;
+    top: 204px;
+
+   font-family: DM Sans;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 40px;
+   line-height: 52px;
+   color: #FFFFFF;
+}
+
+.text{
+    position: absolute;
+    width: 450px;
+    height: 520px;
+    left: 159px;
+    top: 518px;
+
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+    color: #444548;
+}.blue{
+    color: #0B27FA;
+    font-weight: bold;
+}
+
+.t-1{
+    position: absolute;
+    width: 449px;
+    height: 85px;
+    left: 832px;
+    top: 518px;
+
+   font-family: DM Sans;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 20px;
+   line-height: 40px;
+   color: #021B51;
+
+}
+
+.form-group{
+    position: absolute;
+    width: 449px;
+    height: 40px;
+    left: 832px;
+    top: 602px;
+    box-sizing: border-box;
+
+   font-family: DM Sans;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 14px;
+   line-height: 18px;
+   color: #021B51;
+   font-size: 14px;
+   line-height: 18px;
+
+}
+
+.btn{
+    font-family: DM Sans;
+    color: #021B51;
+    background: #00BA91;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 290px;
+}
+
+.footer-copyright{
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 180%;
+    color: #021B51;
+
+    position: absolute;
+    width: 140px;
+    height: 29px;
+    left: 162px;
+    top: 1211px;
+
+}
+
+.col-12{
+    width: 140px;
+    height: 29px;
+    left: 250px;
+    top: 1210px;
+
+}
+
+.btn-2{
+    position: absolute;
+    width: 200px;
+    height: 29px;
+    left: 150px;
+    top: 1190px;
+
+}
